@@ -1,6 +1,6 @@
 # HID2MAV
 
-A lightweight Linux-based system for converting HID joystick input into MAVLink RC overrides over a Microhard telemetry link (UART).
+A lightweight Linux-based system for turning HID joysticks into MAVLink MANUAL_CONTROL
 
 ## Components
 
